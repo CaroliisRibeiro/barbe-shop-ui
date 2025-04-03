@@ -58,6 +58,9 @@ Antes de iniciar, é interessante ter noções básicas/intermediárias de:
 - Criar uma home page, menu de navegação e telas de agendamento e cadastro  
 
 ---
+## 🔗 Link API: 
+https://github.com/CaroliisRibeiro/barber-shop-api
+---
 
 ## 🚀 Objetivos
 
